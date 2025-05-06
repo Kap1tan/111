@@ -1,0 +1,36 @@
+{
+    "804644988": {
+        "state": "viewing_set",
+        "selected_set": "power",
+        "viewed_sets": [
+            "power",
+            "clarity"
+        ],
+        "orders": [
+            {
+                "set_id": "power",
+                "date": "2025-05-06T10:57:06.096071",
+                "status": "new"
+            },
+            {
+                "set_id": "clarity",
+                "date": "2025-05-06T10:59:23.949634",
+                "status": "new"
+            },
+            {
+                "set_id": "power",
+                "date": "2025-05-06T11:06:54.097850",
+                "status": "new"
+            }
+        ],
+        "diagnostic": {
+            "answers": {
+                "0": "energy",
+                "1": "warrior",
+                "2": "charisma"
+            },
+            "current_question": 3
+        },
+        "diagnostic_result": "power"
+    }
+}
