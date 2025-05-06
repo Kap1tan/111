@@ -2,7 +2,7 @@
 # Конфигурация бота
 
 # Токен бота
-BOT_TOKEN = "8147762356:AAEOn8Z4b5IZq_f5N5yFG98YLLJkTH0Sc8g
+BOT_TOKEN = "8147762356:AAEOn8Z4b5IZq_f5N5yFG98YLLJkTH0Sc8g"
 
 # Параметры для текстовых сообщений
 WELCOME_MESSAGE = """
